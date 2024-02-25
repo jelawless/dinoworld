@@ -1,2 +1,0 @@
-# dinoworld
-rowdyhacks AR world
